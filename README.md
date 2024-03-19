@@ -4,7 +4,7 @@
 
 ###
 
-<h3 align="left">Hi 👋! My name is Manav Naharwal. A Seasoned Software Developer with a penchant for tackling complex challenges and a robust foundation in the software industry. Holds a Bachelor Degree in Information Technology. Proven track record as a Software Development Engineer and Intern at BYJU'S, complemented by additional internship experiences. Proficient in cutting-edge technologies encompassing both front-end and back-end development. Eager to leverage my expertise to advance and refine software solutions. Actively pursuing fresh challenges and seeking opportunities for professional growth within a dynamic and collaborative work setting.</h3>
+<h4 align="left">Hi 👋! My name is Manav Naharwal. A Seasoned Software Developer with a penchant for tackling complex challenges and a robust foundation in the software industry. Holds a Bachelor Degree in Information Technology. Proven track record as a Software Development Engineer and Intern at BYJU'S, complemented by additional internship experiences. Proficient in cutting-edge technologies encompassing both front-end and back-end development. Eager to leverage my expertise to advance and refine software solutions. Actively pursuing fresh challenges and seeking opportunities for professional growth within a dynamic and collaborative work setting.</h4>
 
 ###
 
