@@ -20,12 +20,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/mastermanav09/count.svg?"  />
-</div>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45" alt="c logo"  />
   <img width="12" />
