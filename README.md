@@ -4,7 +4,11 @@
 
 ###
 
-<h4 align="left">Hi 👋! My name is Manav Naharwal. A Seasoned Software Developer with a penchant for tackling complex challenges and a robust foundation in the software industry. Holds a Bachelor Degree in Information Technology. Proven track record as a Software Development Engineer and Intern at BYJU'S, complemented by additional internship experiences. Proficient in cutting-edge technologies encompassing both front-end and back-end development. Eager to leverage my expertise to advance and refine software solutions. Actively pursuing fresh challenges and seeking opportunities for professional growth within a dynamic and collaborative work setting.</h4>
+<h4 align="left">Hi 👋! I am Manav Naharwal, a graduate from USICT with a specialization in Information Technology. Proven track record as a Software Development Engineer at BYJU'S, complemented by additional internship experiences. Proficient in cutting-edge technologies spanning both front-end and back-end development. Alongside my professional pursuits, I engage in competitive programming and have garnered commendable ratings across various platforms like Codeforces, Codechef and Leetcode. Additionally, I possess strong skills in data structures and algorithms.
+
+In my approach to work, I uphold values of persistence, curiosity, and altruism. I believe in the power of continuous learning and collaboration to drive meaningful contributions.
+
+Currently, I am actively seeking fresh challenges and opportunities for professional growth within a dynamic and collaborative work environment.</h4>
 
 ###
 
